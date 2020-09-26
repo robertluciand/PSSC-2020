@@ -1,0 +1,16 @@
+Site:https://stackoverflow.com
+
+Este un site utilizat pentru rezolvarea problemelor aparute in procesul de development si este conceput cu un design care sa faciliteze acest scop.
+
+Functionalitatille acestui site includ:
+-Sigla StackOverflow care este un link catre pagina principala
+-Crearea si utilizare unui cont
+-Un search-bar pentru cautarea informatiilor
+-Diferite meniuri intuitive pentru impartirea diferitelor categorii de servicii oferite
+-O pagina de About despre compania in sine
+-O sectiune pentru intrebari si raspunsuri
+-O sectiune pentru gasirea unor locuri de munca
+
+StackOverflow are o interfata cu un design modern, fiind bine gandita din punct de vedere al esteticii si acesabilitatii.
+Pagina principala este impartita in doua sectiuni, "For developers" si "For Businesses", care ofera in mod simplu, diferite posibilitati pentru
+categoriile in care se incadreaza utilizatorii respectivi.

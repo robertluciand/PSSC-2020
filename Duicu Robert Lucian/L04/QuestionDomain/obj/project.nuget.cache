@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVKpQL1rgFXq3Vblp1kYoTGLP5GNf1FQ4qSX1BKXl/atpx9wME2XDGo1OQCoccfzD+Mjs5fXTwL/0SCqDFjvsQ==",
+  "success": true,
+  "projectFilePath": "F:\\Faculta\\Anul IV\\PSSC\\Teme\\L04\\QuestionDomain\\QuestionDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

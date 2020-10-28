@@ -1,0 +1,5 @@
+F:\Faculta\Anul IV\PSSC\Teme\L05\QuestionDomain\obj\Debug\netcoreapp3.1\QuestionDomain.csprojAssemblyReference.cache
+F:\Faculta\Anul IV\PSSC\Teme\L05\QuestionDomain\obj\Debug\netcoreapp3.1\QuestionDomain.AssemblyInfoInputs.cache
+F:\Faculta\Anul IV\PSSC\Teme\L05\QuestionDomain\obj\Debug\netcoreapp3.1\QuestionDomain.AssemblyInfo.cs
+F:\Faculta\Anul IV\PSSC\Teme\L05\QuestionDomain\obj\Debug\netcoreapp3.1\QuestionDomain.csproj.CoreCompileInputs.cache
+F:\Faculta\Anul IV\PSSC\Teme\L05\QuestionDomain\bin\Debug\netcoreapp3.1\QuestionDomain.exe
